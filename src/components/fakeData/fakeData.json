@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "image": "http://dummyimage.com/161x166.png/cc0000/ffffff",
+        "course_title": "Roberta",
+        "instructor": "Roberta Outram",
+        "price": 87,
+        "rating": 1.4
+    },
+    {
+        "id": 2,
+        "image": "http://dummyimage.com/243x209.png/dddddd/000000",
+        "course_title": "Leigha",
+        "instructor": "Leigha Shotboult",
+        "price": 70,
+        "rating": 2.2
+    },
+    {
+        "id": 3,
+        "image": "http://dummyimage.com/109x133.png/ff4444/ffffff",
+        "course_title": "Eugenie",
+        "instructor": "Eugenie Keynes",
+        "price": 60,
+        "rating": 4.5
+    },
+    {
+        "id": 4,
+        "image": "http://dummyimage.com/217x168.png/ff4444/ffffff",
+        "course_title": "Forrest",
+        "instructor": "Forrest Haylands",
+        "price": 51,
+        "rating": 1.5
+    },
+    {
+        "id": 5,
+        "image": "http://dummyimage.com/184x133.png/cc0000/ffffff",
+        "course_title": "Clementia",
+        "instructor": "Clementia Wattinham",
+        "price": 50,
+        "rating": 4.0
+    },
+    {
+        "id": 6,
+        "image": "http://dummyimage.com/123x150.png/5fa2dd/ffffff",
+        "course_title": "Kelsey",
+        "instructor": "Kelsey Matthews",
+        "price": 84,
+        "rating": 1.9
+    },
+    {
+        "id": 7,
+        "image": "http://dummyimage.com/139x211.png/cc0000/ffffff",
+        "course_title": "Brandon",
+        "instructor": "Brandon Filipovic",
+        "price": 67,
+        "rating": 3.2
+    },
+    {
+        "id": 8,
+        "image": "http://dummyimage.com/168x130.png/ff4444/ffffff",
+        "course_title": "Vonnie",
+        "instructor": "Vonnie Gomar",
+        "price": 97,
+        "rating": 5.0
+    },
+    {
+        "id": 9,
+        "image": "http://dummyimage.com/234x229.png/5fa2dd/ffffff",
+        "course_title": "Vivienne",
+        "instructor": "Vivienne Baumadier",
+        "price": 66,
+        "rating": 1.1
+    },
+    {
+        "id": 10,
+        "image": "http://dummyimage.com/184x123.png/ff4444/ffffff",
+        "course_title": "Zachariah",
+        "instructor": "Zachariah Meggison",
+        "price": 59,
+        "rating": 2.6
+    },
+    {
+        "id": 11,
+        "image": "http://dummyimage.com/190x195.png/5fa2dd/ffffff",
+        "course_title": "Torey",
+        "instructor": "Torey Colston",
+        "price": 64,
+        "rating": 3.7
+    },
+    {
+        "id": 12,
+        "image": "http://dummyimage.com/250x151.png/cc0000/ffffff",
+        "course_title": "Walliw",
+        "instructor": "Walliw Dunkersley",
+        "price": 63,
+        "rating": 2.5
+    },
+    {
+        "id": 13,
+        "image": "http://dummyimage.com/152x191.png/cc0000/ffffff",
+        "course_title": "Elmo",
+        "instructor": "Elmo Arcase",
+        "price": 63,
+        "rating": 1.4
+    },
+    {
+        "id": 14,
+        "image": "http://dummyimage.com/143x205.png/dddddd/000000",
+        "course_title": "Nani",
+        "instructor": "Nani Jellett",
+        "price": 95,
+        "rating": 2.6
+    },
+    {
+        "id": 15,
+        "image": "http://dummyimage.com/192x105.png/5fa2dd/ffffff",
+        "course_title": "Barnebas",
+        "instructor": "Barnebas Zannolli",
+        "price": 81,
+        "rating": 1.9
+    }
+]
