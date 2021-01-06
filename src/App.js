@@ -20,19 +20,16 @@ function App() {
   }
 
   return (
-    <div>
-      <h1 className="text-center">All Course {course.length}</h1>
+    <div className="text-center app-body">
+      <h1 className="text-center sticky-top bg-white p-3" style={{ top: '0px' }}>All Course {course.length}</h1>
       <main className="d-flex ">
         <div className="course-container border-right">
           {
             course.map(item => <Course course={item} handleAddCourse={handleAddCourse}></Course>)
           }
         </div>
-        <div>
-          <h3>Cart</h3>
-          <h4>Number of course on Cart: {cart.length}</h4>
-          <h4>Total course price: 0</h4>
-          <Cart></Cart>
+        <div className="container p-3">
+          <Cart cart={cart}></Cart>
         </div>
       </main>
     </div>
